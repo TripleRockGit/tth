@@ -2,6 +2,7 @@
 
 var range_rec = 512;  // KBps
 var range_snd = 512;  // KBps
+var Gtimestamp = 0;
 
 if(typeof(EventSource) !== "undefined") 
 {
