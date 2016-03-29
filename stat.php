@@ -12,4 +12,7 @@ $output = json_encode($data);
 echo "retry: 1000\n";
 echo "data: {$output}\n\n";
 
+echo "i'm doing feature a\n";
+
+echo "once more \n";
 flush();
