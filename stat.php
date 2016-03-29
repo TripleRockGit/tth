@@ -18,3 +18,4 @@ echo "i'm doing feature a\n";
 
 echo "once more \n";
 flush();
+echo "ddd";
