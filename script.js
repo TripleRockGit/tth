@@ -48,6 +48,8 @@ if(typeof(EventSource) !== "undefined")
 }
 
 var abc=89;
+
+var u67=908;
 window.onload = function() {
 
     rec_graph = new Graph(
