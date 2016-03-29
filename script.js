@@ -46,7 +46,7 @@ if(typeof(EventSource) !== "undefined")
 	document.getElementById("rec_result").innerHTML=
 		"Sorry, your browser does not support server-sent events...";
 }
-
+var jk='jk';
 var abc=89;
 
 var u67=908;
