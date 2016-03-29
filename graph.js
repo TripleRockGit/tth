@@ -60,7 +60,7 @@ var Graph = function(options)
 	this.array = [];
 
 	var _self = this;
-	
+	var abcd = 'trump';
 	this.drawGraph = function()
 	{
 		this.canvas.setAttribute('width',this.canvas.width); // Clear the canvas
