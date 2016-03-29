@@ -47,7 +47,7 @@ if(typeof(EventSource) !== "undefined")
 		"Sorry, your browser does not support server-sent events...";
 }
 
-
+var abc=89;
 window.onload = function() {
 
     rec_graph = new Graph(
