@@ -18,6 +18,7 @@ var Graph = function(options)
 		'background': "#F9F9F9",
 		'fillStyle':	"rgba(0,0,0,0.25)",
 		'showdots':	true,
+        
 		'showgrid': true,
 		'showlabels': true,
 		'grid': [10,10],
@@ -29,7 +30,7 @@ var Graph = function(options)
 			options[index] = default_args[index];
 	}
 	
-	this.id = options['id'];
+	this.id = options['idd'];
 	this.interval = options['interval'];
 	this.lineWidth = options['lineWidth'];
 	this.strokeStyle = options['strokeStyle'];
