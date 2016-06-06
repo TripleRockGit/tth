@@ -20,11 +20,13 @@
 {
 	font-weight:bold;
 	color:#0E15CF;
+    
 }
 
 #rec_graph
 {
 	width:auto;
+    
 	height:auto;
 	font-size: 6pt;
 }
